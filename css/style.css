@@ -6,3 +6,23 @@
 body {
   background-image: url('../images/bg-body.png');
 }
+
+.logo{
+  display: flex;
+  justify-content: center;
+  border-radius: 10vh;
+  margin: 2% 2%;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+.menu li {
+  width: 30vh;
+}
+.menu a {
+  background: black;
+  padding: 10%;
+  color: #ffff;
+
+}
