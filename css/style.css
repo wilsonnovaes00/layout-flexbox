@@ -7,7 +7,7 @@ body {
   background-image: url('../images/bg-body.png');
 }
 
-.logo{
+.logo {
   display: flex;
   justify-content: center;
   border-radius: 10vh;
@@ -17,13 +17,23 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.menu li {}
-  
+.menu li {
+    background: black;
+    width: 20vh;
+    line-height: 5vh;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+nav.main-nav {
+  margin-bottom: 3vh;
+}
+
 .menu a {
-  background: black;
-  padding: 10%;
+  text-decoration: none;
   color: #ffff;
 }
 .banner img {
   width: 100%;
+  margin-bottom: 3vh;
 }
