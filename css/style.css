@@ -17,9 +17,8 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.menu li {
-  width: 30vh;
-}
+.menu li {}
+  
 .menu a {
   background: black;
   padding: 10%;
