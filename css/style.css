@@ -24,5 +24,7 @@ body {
   background: black;
   padding: 10%;
   color: #ffff;
-
+}
+.banner img {
+  width: 100%;
 }
