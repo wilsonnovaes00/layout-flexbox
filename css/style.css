@@ -65,4 +65,22 @@ article.product a {
   text-decoration: none;
   background: black;
   color: #ffff;
+  padding: 1vh;
+}
+
+footer{
+  background: red;
+  border-radius: 1vh 1vh 0 0;
+}
+
+.menu-footer {
+  display: flex;
+  justify-content: center;
+  align-content: space-around;
+}
+
+.menu-footer a {
+  text-decoration: none;
+  color: #FFF;
+  text-transform: uppercase;
 }
