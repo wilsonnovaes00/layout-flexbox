@@ -42,8 +42,9 @@ nav.main-nav {
   flex-wrap: wrap;
   justify-content: space-between;
 }
-.product {
+article.product {
     width: 46vh;
+    margin-bottom: 5vh;
 }
 article.product img {
   width: 100%;
@@ -63,6 +64,5 @@ article.product p {
 article.product a {
   text-decoration: none;
   background: black;
-  padding: 2.6vh 6vh 0 0;
   color: #ffff;
 }
