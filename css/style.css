@@ -18,7 +18,7 @@ body {
   justify-content: space-between;
 }
 .menu li {
-    background: black;
+    background: #323334;
     width: 20vh;
     line-height: 5vh;
     text-align: center;
@@ -63,13 +63,13 @@ article.product p {
 
 article.product a {
   text-decoration: none;
-  background: black;
+  background: #323334;
   color: #ffff;
   padding: 1vh;
 }
 
 footer{
-  background: red;
+  background: #C00000;
   border-radius: 1vh 1vh 0 0;
   height: 13vh;
 }
@@ -88,6 +88,7 @@ footer{
   width: 2vh;
   text-align: center;
 }
+
 .divisor {
   margin-left: 3vh;
 }
