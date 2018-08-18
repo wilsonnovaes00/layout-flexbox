@@ -71,16 +71,23 @@ article.product a {
 footer{
   background: red;
   border-radius: 1vh 1vh 0 0;
+  height: 13vh;
 }
 
 .menu-footer {
   display: flex;
   justify-content: center;
   align-content: space-around;
+  line-height: 13vh;
 }
- 
+
 .menu-footer a {
   text-decoration: none;
   color: #FFF;
-  text-transform: uppercase;
+  padding-left: 7vh;
+  width: 2vh;
+  text-align: center;
+}
+.divisor {
+  margin-left: 3vh;
 }
