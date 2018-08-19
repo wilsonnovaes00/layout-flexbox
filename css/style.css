@@ -92,3 +92,14 @@ footer{
 .divisor {
   margin-left: 3vh;
 }
+
+@media(max-width: 768px) {
+  .menu li {
+      background: #323334;
+      width: 8vh;
+      line-height: 5vh;
+      text-align: center;
+      text-transform: uppercase;
+  }
+
+}
